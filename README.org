@@ -1,0 +1,5 @@
+** Common Lisp Idioms
+
+Collecting Common Lisp Idioms, style guides and more.
+
+Feel free to add more.
