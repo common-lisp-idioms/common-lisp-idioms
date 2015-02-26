@@ -3,3 +3,7 @@
 Collecting Common Lisp Idioms, style guides and more.
 
 Feel free to add more.
+
+** Table of contents
+
+[[https://github.com/common-lisp-idioms/common-lisp-idioms/blob/master/style-guide.text][Hallvard Tretteberg's Lisp Style Guide]]
